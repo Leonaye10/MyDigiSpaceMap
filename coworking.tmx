@@ -3,8 +3,8 @@
  <editorsettings>
   <export target="map.json" format="json"/>
  </editorsettings>
- <tileset firstgid="1" source="../space.tsx"/>
- <tileset firstgid="65" source="../tmw_digi_space.tsx"/>
+ <tileset firstgid="1" source="space.tsx"/>
+ <tileset firstgid="65" source="tmw_digi_space.tsx"/>
  <layer id="7" name="bottom" width="50" height="50">
   <data encoding="csv">
 16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,
@@ -59,7 +59,7 @@
 62,20,17,20,20,20,17,20,20,20,17,20,20,20,17,20,20,20,20,17,20,62,10,10,10,10,10,10,10,62,20,17,20,20,20,20,17,20,20,20,20,20,17,20,20,20,20,17,20,62
 </data>
  </layer>
- <objectgroup id="6" name="floorLayer"/>
+ <objectgroup id="6" name="floorLayer" parallaxx="0" parallaxy="0"/>
  <layer id="8" name="top" width="50" height="50">
   <data encoding="csv">
 0,0,0,79,80,0,0,0,79,80,0,0,0,0,79,80,0,0,79,80,0,0,0,0,0,79,80,0,0,0,79,80,0,0,0,0,0,0,79,80,0,0,0,0,0,0,79,80,0,0,
