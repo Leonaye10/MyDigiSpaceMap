@@ -1,16 +1,11 @@
 { "compressionlevel":-1,
  "editorsettings":
     {
-       "chunksize":
-       {
-        "height":32,
-        "width":32
-       },
      "export":
-       {
-       "format":"json",
-       "target":"map.json"
-       }
+        {
+         "format":"json",
+         "target":"map.json"
+        }
     },
  "height":50,
  "infinite":false,
@@ -33,6 +28,8 @@
          "name":"floorLayer",
          "objects":[],
          "opacity":1,
+         "parallaxx":0,
+         "parallaxy":0,
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -59,11 +56,11 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"..\/space.tsx"
+         "source":"space.tsx"
         }, 
         {
          "firstgid":65,
-         "source":"..\/tmw_digi_space.tsx"
+         "source":"tmw_digi_space.tsx"
         }],
  "tilewidth":32,
  "type":"map",
