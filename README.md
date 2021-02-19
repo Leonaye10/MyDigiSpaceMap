@@ -1,6 +1,6 @@
 # Bienvenue sur MyDigiSPace
 
-![Logo](‪map.png)
+<img src="map.png">
 
 
 
