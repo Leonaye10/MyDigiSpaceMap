@@ -1,6 +1,6 @@
 # Bienvenue sur MyDigiSPace
 
-![Algorithm schema](./images/schema.jpg)
+![Algorithm schema](‪C:\Users\ngonk\Pictures\mirio-togata.jpg)
 
 
 
