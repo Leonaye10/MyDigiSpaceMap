@@ -1,6 +1,6 @@
 # Bienvenue sur MyDigiSPace
 
-![plot](‪C:\Users\ngonk\Pictures\mirio-togata.jpg)
+[a relative link](‪C:\Users\ngonk\Pictures\mirio-togata.jpg)
 
 * [General info](#general-info)
 
