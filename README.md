@@ -1,6 +1,8 @@
-# WorkAdventure Map Starter Kit
+# Bienvenue sur MyDigiSPace
 
-This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
+![plot](‪C:\Users\ngonk\Pictures\mirio-togata.jpg)
 
-To understand how to use this starter kit, follow the tutorial at [https://workadventu.re/map-building](https://workadventu.re/map-building).
+* [General info](#general-info)
+
+
 
