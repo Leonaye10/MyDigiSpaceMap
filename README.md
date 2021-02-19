@@ -1,8 +1,8 @@
 # Bienvenue sur MyDigiSPace
 
-[a relative link](‪C:\Users\ngonk\Pictures\mirio-togata.jpg)
+[a link](https://github.com/user/repo/blob/branch/other_file.md)
 
-* [General info](#general-info)
+
 
 
 
