@@ -1,6 +1,6 @@
 # Bienvenue sur MyDigiSPace
 
-<img src="Logo.png" width=500 height=500>
+<img src="Logo.png" >
 
 ## Description
 #### Problématique
